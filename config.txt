@@ -1,9 +1,10 @@
 timing_system:namemc
-skin:PATH WITH FORWARD SLASHES (no quote marks)
+skin:https://namemc.com/skin/4e45a59795a252c3
 skin_model:slim
 change_skin:false
-snipe_reqs:6
+snipe_reqs:3
 block_reqs:3
 auth_delay:500
-max_accs:30
+max_accs:100
 auto_link_namemc:false NOT IMPLEMENTED
+wh:https://discordapp.com/api/webhooks/792376299402166302/EmvkABDo85kjfHyAElg-cmFXYUnr0cg244T4svVSmViY9nOpB562YG9mVaFdLa2LcDFw
